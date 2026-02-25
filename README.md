@@ -14,6 +14,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
+<hr>
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +30,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
+<hr>
 ### What I use and I know how to use:
 
 <details>
