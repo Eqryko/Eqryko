@@ -1,12 +1,11 @@
-## Hi there 👋
+## Howdy, I'm Eqryko.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=IT-student%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=ff9900&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!--
-**Eqryko/Eqryko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on (https://github.com/Eqryko/Project-Rendezvous)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
