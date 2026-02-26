@@ -11,7 +11,7 @@
   What I'm listening rn...
   <br><br>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&cover_image=true&theme=default&background_color=121212&interchange=true&profanity=false&bar_color_cover=true">
   </a>
 </p>
 
