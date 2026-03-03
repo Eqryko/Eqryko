@@ -28,7 +28,7 @@
 *A digital infrastructure designed to map humanity's technological legacy in deep space.*
 <br>
 
-<img src="https://img.shields.io/github/stars/Eqryko/Project-Rendezvous?style=for-the-badge&color=ff9900" /> <img src="https://img.shields.io/github/forks/Eqryko/Project-Rendezvous?style=for-the-badge&color=white" />
+<img src="https://img.shields.io/github/stars/Eqryko/Project-Rendezvous?style=for-the-badge&color=ff9900&labelColor=212121" alt="Stars"/> <img src="https://img.shields.io/github/forks/Eqryko/Project-Rendezvous?style=for-the-badge&color=ffffff&labelColor=212121" alt="Forks"/>
 </div>
 <hr>
 
