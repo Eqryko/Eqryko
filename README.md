@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=100&section=footer" width="100%"/>
+</div>
+
 # :trollface: Howdy,
 <p align="center">
   I'm <br><br>
@@ -6,36 +10,36 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=IT-student%20web%20and%20app%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=ff9900&vCenter=true&pause=500&size=22" /></a>
 </p>
 
-<p align="center">
+<div align="center">
   <br>
-  What I'm listening rn...
-  <br><br>
+  
+  ### 🎧 Current Vibe
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knztuzmj41csecoiceifz0sg2&cover_image=true&theme=default&background_color=121212&interchange=true&profanity=false&bar_color_cover=true">
   </a>
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 Featured Project
+**[Project-Rendezvous](https://github.com/Eqryko/Project-Rendezvous)**
+*A digital infrastructure designed to map humanity's technological legacy in deep space.*
+<br>
+
+<img src="https://img.shields.io/github/stars/Eqryko/Project-Rendezvous?style=for-the-badge&color=ff9900" /> <img src="https://img.shields.io/github/forks/Eqryko/Project-Rendezvous?style=for-the-badge&color=white" />
+</div>
+<hr>
+
+### :neckbeard: Main Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,kotlin,php,py,lua&perline=9" />
 </p>
 
-### Currently working on 🌎[Project-Rendezvous](https://github.com/Eqryko/Project-Rendezvous) 🚀
-
 <hr>
 
-### :neckbeard: Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<hr>
-
-### What I use and I know how to use:
+### My Tech Stack (Click to expand)
 
 <details>
   <summary><b>🌐 Browser </b></summary>
@@ -115,13 +119,9 @@
   ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 </details>
 
+---
 
-<!--
-- 🔭 I’m currently working on (https://github.com/Eqryko/Project-Rendezvous)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eqryko&bg_color=0D1117&color=ff9900&line=ff9900&point=ffffff&area=true&hide_border=true)
+
+---
