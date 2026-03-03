@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9900&height=120&section=header&reversal=false&stroke=2&fill=00000000" width="100%"/>
 </div>
 
 # :trollface: Howdy,
@@ -125,3 +125,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eqryko&bg_color=0D1117&color=ff9900&line=ff9900&point=ffffff&area=true&hide_border=true)
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9900&height=120&section=footer&reversal=false&stroke=2&fill=00000000" width="100%"/>
+</div>
